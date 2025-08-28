@@ -21,6 +21,6 @@ git init        | Criar um repositório
 cd              | Change directory
 git status      | Verificar o status do git
 git add .       | Adicionar arquivos ao projeto
-git commit a-   |
+git commit -a   |
 -m              | Enviar uma mensagem após o commit
 git push        | Enviar código ao REPO remoto
