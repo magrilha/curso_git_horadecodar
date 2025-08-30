@@ -26,3 +26,4 @@ git commit -a   |
 git push        | Enviar código ao REPO remoto
 git pull        | Receber alteração do REPO
 git clone       | Clonar REPO (Quando já estão criados)
+git rm          | removendo arquivos do REPO
