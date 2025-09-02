@@ -26,7 +26,6 @@ git commit -a   |
 git push        | Enviar código ao REPO remoto
 git pull        | Receber alteração do REPO
 git clone       | Clonar REPO (Quando já estão criados) . PARA SER NO DIRETÓRIO ATUAL
-
 git rm          | removendo arquivos do REPO
 git log         | modificações feitas no projeto
 git checkout    | arquivo modificado pode ser retornado ao estado original
