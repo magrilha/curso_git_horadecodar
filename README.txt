@@ -31,3 +31,7 @@ git log         | modificações feitas no projeto
 git checkout    | arquivo modificado pode ser retornado ao estado original
 Criar um arquivo com nome .gitignore você pode por nome dos arquivos antes de criar nele para ser ignoradas de enviar ao REPO, e se colocar /* é todo os arquivos dentro da pasta
 git reset --hard origin/main | resseta mudanças feitas
+git branch | 
+git branch -d | 
+git checkout <nome> | muda de branch
+git checkout -b <nome> | Cria um novo branch e também muda já pra ele
