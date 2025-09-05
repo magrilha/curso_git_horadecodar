@@ -21,11 +21,12 @@ git init        | Criar um repositório
 cd              | Change directory
 git status      | Verificar o status do git
 git add .       | Adicionar arquivos ao projeto
-git commit -a   |
+git commit -a   | 
 -m              | Enviar uma mensagem após o commit
 git push        | Enviar código ao REPO remoto
 git pull        | Receber alteração do REPO
 git clone       | Clonar REPO (Quando já estão criados) . PARA SER NO DIRETÓRIO ATUAL
+
 git rm          | removendo arquivos do REPO
 git log         | modificações feitas no projeto
 git checkout    | arquivo modificado pode ser retornado ao estado original
@@ -35,3 +36,4 @@ git branch |
 git branch -d | 
 git checkout <nome> | muda de branch
 git checkout -b <nome> | Cria um novo branch e também muda já pra ele
+git merge <nome>  | merge com o branch atual e o citado.
