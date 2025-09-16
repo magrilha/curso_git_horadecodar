@@ -59,3 +59,7 @@ git gc | liverar memoria sendo utilizada desnecessariamente, faz uma manutençã
 git fsck | Comando de rotina para verificar se existe corrupções em arquivos
 git reflog | mapeia todos os passos que demos no REPO, até uma mudança de branch é inserida no log
 git archive --formate zip --output main_files.zip main | transforma o REPO em um arquivo compactado
+Commit ruins, como fazer sem prejudicar o log? Faça private branches, eles não vão ser compatilhados no repo, então você pode por qualquer commit, ao fim da solução do problema você pode fazer um rebase
+git rebase <branch atual> <branch privado para log ruim> -i
+Escolher os branches — Pick é para levar todos os commits para a branch atual, excluir é Squash e renomear com é Reword
+Aperta i para poder editar, depois ESC e então :x! para salvar
