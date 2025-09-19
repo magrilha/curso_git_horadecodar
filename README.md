@@ -28,3 +28,7 @@ __Melhoria 1, *melhoria 2*, melhoria 3__
 
 ### Imagem local
 ![Personagem](img/Imagem.png)
+
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27PHP-logo.svg)
