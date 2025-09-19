@@ -42,3 +42,11 @@ __Melhoria 1, *melhoria 2*, melhoria 3__
 Contribuidora: https://github.com/magrilha
 
 [![Logo do PHP](https://pt.m.wikiversity.org/wiki/Ficheiro:PHP-logo.svg)](https://github.com/magrilha)
+
+## Código da função soma
+
+```javascript
+function soma(a,b) {
+    return a + b;
+}
+```
