@@ -36,5 +36,9 @@ __Melhoria 1, *melhoria 2*, melhoria 3__
 ## Links interessantes:
 
 [Google](https://www.google.com.br)
+
 [https://www.google.com.br](https://www.google.com.br)
+
 Contribuidora: https://github.com/magrilha
+
+[![Logo do PHP](https://pt.m.wikiversity.org/wiki/Ficheiro:PHP-logo.svg)](https://github.com/magrilha)
